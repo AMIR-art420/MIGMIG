@@ -6,7 +6,3 @@ export default function Home() {
     </main>
   );
 }
-      </main>
-    </div>
-  );
-}
